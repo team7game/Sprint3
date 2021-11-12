@@ -14,3 +14,7 @@ Option 2 (Backup Method):
 	javac -cp ".;com/resources/postgresql-42.2.24.jar" -d . com/team7/*.java
 5. Run the code using the following command:
 	java -splash:com/img/Photon.jpg -cp ".;com/resources/postgresql-42.2.24.jar" com/team7/App
+	
+Notes:
+1. This code was tested using the latest version of java (17.0.1).
+2. Our database currently has player IDs 1 through 5 populated.
